@@ -4,3 +4,5 @@ oxygen
 helmets
 fins
 regulators
+racks
+helium
